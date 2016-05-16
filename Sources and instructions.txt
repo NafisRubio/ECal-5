@@ -1,0 +1,17 @@
+This RMI system was built using the information found at:
+http://littletutorials.com/2008/07/14/the-10-minutes-getting-started-with-rmi-tutorial/
+
+Currently only tested in Windows 7
+
+To compile:
+1. run Server.java and Client.java in eclipse as java applications.
+2. File -> Export -> Jar file -> name api.jar and include package rmi.api put in both server and client locations.
+3. File -> Export -> Executable Jar file -> select server and name server.jar and put in server location.
+4. File -> Export -> Executable Jar file -> select client and name client.jar and put in client location.
+5. run server.jar
+6. run client.jar
+
+To execute:
+1. run server in eclipse.
+2. run client in eclipse.
+done.
